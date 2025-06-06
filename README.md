@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Ogola Sirkal
 
-<!--
-**Ogola-Sirkal/Ogola-Sirkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | Analyst | Machine Learning Enthusiast**  
+Turning data into actionable insights through clean code, rigorous analysis, and creative problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a data scientist passionate about using data to tell stories, solve problems, and drive decisions. With a strong foundation in Python, machine learning, and data visualization, I enjoy working on real-world projects that create impact.
+
+- 💡 Skilled in EDA, predictive modeling, and data visualization  
+- 🛠️ Proficient in Python, SQL, scikit-learn, and Tableau  
+- 🤖 Focus areas: ML, NLP, Time Series, and Recommender Systems  
+- 🗣️ I love communicating complex data in simple, compelling ways
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, SQL, Markdown  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras  
+- **Tools:** Jupyter Notebook, Git, GitHub, VS Code, Google Colab  
+- **Other:** APIs, Streamlit, Power BI, Excel
+
+---
+
+## 📁 Featured Projects
+
+Here are a few highlights from my data science portfolio:
+
+### 🔬 [COVID-19 Data Analysis](https://github.com/Ogola-Sirkal/DATA-SCIENCE-PROJECTS/tree/main/covid19-analysis)
+Analyzed global COVID-19 trends, cleaned real-world data, and visualized case progression by country.
+
+### 📉 [Customer Churn Prediction](https://github.com/Ogola-Sirkal/DATA-SCIENCE-PROJECTS/tree/main/customer-churn)
+Built classification models to predict churn and identify key factors contributing to customer loss.
+
+### 🎥 [Movie Recommender System](https://github.com/Ogola-Sirkal/DATA-SCIENCE-PROJECTS/tree/main/movie-recommender)
+Developed a content-based recommendation engine using NLP and cosine similarity.
+
+### 📈 [Sales Forecasting](https://github.com/Ogola-Sirkal/DATA-SCIENCE-PROJECTS/tree/main/sales-forecasting)
+Used time series modeling to forecast monthly sales, with visualizations and model evaluation.
+
+> 🔗 Explore more projects in my [📂 Data Science Projects Repository](https://github.com/Ogola-Sirkal/DATA-SCIENCE-PROJECTS)
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 **Email:** [your.email@example.com]  
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🌐 **Portfolio Website:** [your-portfolio.com] *(if available)*
+
+---
+
+## 📜 License
+
+All projects are for educational purposes unless otherwise noted. Feel free to fork, explore, or contribute!
+
+---
+
+⭐️ *Thanks for visiting my GitHub! If you found something useful, feel free to give it a star or connect with me!*
+
