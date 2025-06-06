@@ -47,8 +47,8 @@ Used time series modeling to forecast monthly sales, with visualizations and mod
 
 ## 📬 Let’s Connect
 
-- 📧 **Email:** [johnotienoogola@gmail.com]  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/john-ogola])  
+- 📧 **Email:** johnotienoogola@gmail.com  
+-  [💼 **LinkedIn:**](https://www.linkedin.com/in/john-ogola-9980b81a4/)  
 - 🌐 **Portfolio Website:** [your-portfolio.com] *(if available)*
 
 ---
