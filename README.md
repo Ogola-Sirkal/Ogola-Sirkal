@@ -10,7 +10,7 @@ Turning data into actionable insights through clean code, rigorous analysis, and
 I’m a data scientist passionate about using data to tell stories, solve problems, and drive decisions. With a strong foundation in Python, machine learning, and data visualization, I enjoy working on real-world projects that create impact.
 
 - 💡 Skilled in EDA, predictive modeling, and data visualization  
-- 🛠️ Proficient in Python, SQL, scikit-learn, and Tableau  
+- 🛠️ Proficient in Python, Excel, SQL, scikit-learn, and PowerBi  
 - 🤖 Focus areas: ML, NLP, Time Series, and Recommender Systems  
 - 🗣️ I love communicating complex data in simple, compelling ways
 
@@ -20,8 +20,8 @@ I’m a data scientist passionate about using data to tell stories, solve proble
 
 - **Languages:** Python, SQL, Markdown  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras  
-- **Tools:** Jupyter Notebook, Git, GitHub, VS Code, Google Colab  
-- **Other:** APIs, Streamlit, Power BI, Excel
+- **Tools:** Jupyter Notebook, Git, GitHub, VSCode, Google Colab  
+- **Other:** APIs, Streamlit, PowerBI, Excel
 
 ---
 
@@ -49,7 +49,6 @@ Used time series modeling to forecast monthly sales, with visualizations and mod
 
 - 📧 **Email:** johnotienoogola@gmail.com  
 -  [💼 **LinkedIn:**](https://www.linkedin.com/in/john-ogola-9980b81a4/)  
-- 🌐 **Portfolio Website:** [your-portfolio.com] *(if available)*
 
 ---
 
