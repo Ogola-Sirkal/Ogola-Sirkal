@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ogola Sirkal
 
-🎯 **Data Scientist | Analyst | Machine Learning Enthusiast**  
+🎯 **Data Scientist | Analyst | AI and Machine Learning Enthusiast**  
 Turning data into actionable insights through clean code, rigorous analysis, and creative problem-solving.
 
 ---
